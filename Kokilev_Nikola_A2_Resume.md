@@ -17,23 +17,23 @@ _Winnipeg, MB_
 
 * ## Skills
   * ### IT and Telecommunications
-   * Repaired, built and maintained many personal computers and workstations in both residential and commercial settings for almost a decade
-   * Proficient in building and maintaining effective telecommunications and audio visual infrastructure for both residential and small to medium businesses
-   * Coded in python, java, and C++ and done some web design.
+    * Repaired, built and maintained many personal computers and workstations in both residential and commercial settings for almost a decade
+    * Proficient in building and maintaining effective telecommunications and audio visual infrastructure for both residential and small to medium businesses
+    * Coded in python, java, and C++ and done some web design.
 
   * ### Language Skills
-   * Fluent in English
-   * Competent comprehension of the French language
-   * Fluently speak Bulgarian and can also adequately read and write in it
-   * English has helped me tremendously in the IT industry and all of these languages have been very useful when travelling
+    * Fluent in English
+    * Competent comprehension of the French language
+    * Fluently speak Bulgarian and can also adequately read and write in it
+    * English has helped me tremendously in the IT industry and all of these languages have been very useful when travelling
 
   * ### Electronics and Electrical Work
-   *	I enjoy projects that combine hardware and software knowledge such as working with embedded systems and microcontrollers and would like to do a lot more projects of this nature in the future
-   * I have done several small repairs around my house which mainly consisted of wiring, painting, and repairing appliances
+    *	I enjoy projects that combine hardware and software knowledge such as working with embedded systems and microcontrollers and would like to do a lot more projects of this nature in the future
+    * I have done several small repairs around my house which mainly consisted of wiring, painting, and repairing appliances
 
   * ### Musical Talent
-   * I played piano when I was younger and reached level 5
-   * I was a Deejay for several events at my high school
+    * I played piano when I was younger and reached level 5
+    * I was a Deejay for several events at my high school
 
 * ## Hobbies
   * In my free time I take apart, tinker with, and repair various appliances and electronics in my workshop because I enjoy challenging projects and learning new things. I also enjoy rebuilding and updating old electronics
