@@ -9,7 +9,7 @@ nikola@outlook.com
  _Winnipeg, MB_
 
   * #### Kelvin High school- International Baccalaureate Program   2014-2017
-_Winnipeg, MB_
+ _Winnipeg, MB_
 
   * #### McKernan Junior High school- French Immersion    2011-2014
  _Edmonton, AB_
