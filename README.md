@@ -56,7 +56,7 @@ If you are able to do basic tasks on a modern computer such as web browsing, and
 31. Click the `Commit changes` button to apply the changes you have made.
 32. Reopen the link to your resume that was given to you in step 22. The changes you submitted in the previous step should now appear.
 
-![Resume Template GIF](https://www.dropbox.com/s/r1j50hrghxuxpig/resume_template.GIF)
+![Resume Template GIF](https://dl.dropboxusercontent.com/s/r1j50hrghxuxpig/resume_template.GIF)
 
 ### Applying a Jekyll Theme to your Resume
 1. Go back to the repository configuration page that you used in steps 18 and 24 when "Writing Your Resume and Hosting it on GitHub"
@@ -73,12 +73,15 @@ If you are able to do basic tasks on a modern computer such as web browsing, and
 
 ### Frequently Asked Questions
 Q: Why should I use markdown to write my resume instead of a traditional word processor such as Word, Pages, or Google Docs?
+
 A: Markdown is easier to write than HTML (most commonly used to write websites) and can easily be converted to HTML allowing you to make your resume into a webpage.
 
 Q: Why would I want to have my resume in the format of a webpage?
+
 A: Having your resume in the form of a webpage allows you to distribute it more easily since you can host it online and just give employers a URL to the webpage. Having a webpage also ensures compatibility with most devices especially mobile devices which can often display traditional computer files incorrectly depending on the applications installed, the software configuration, and limitations of the platform.
 
 Q: After selecting my template and/or editing files in my repository I clicked on `commit changes` however my webpage is not being updated. Am I doing something wrong?
+
 A: This is completely normal. It can take a few minutes or even up to an hour for committed changes to appear on your webpage as it takes time to update the webpage's code and restart the webserver behind the scenes. Be patient. If there is a problem with your files which prevents the updated webpage from being generated and hosted behind the scenes you will receive a warning email from GitHub.
 
 ### More resources
