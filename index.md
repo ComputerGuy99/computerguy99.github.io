@@ -1,3 +1,8 @@
+155 Kingsway  
+Winnipeg, MB R3M 0G3  
+(204)-955-5255  
+nikola@outlook.com
+
 * ## Education and Training
   * #### University of Manitoba- Bachelor in Computer Science   2017-current
  _Winnipeg, MB_
