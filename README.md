@@ -1,6 +1,6 @@
 Creating a resume using markdown, github, and Jekyll
 
- 1.	Install atom and launch it.
+ 1.	Install atom and 'launch' it.
  2.	Once atom has loaded select “create a new file” from the “file” drop down menu. In the new file write your resume in github flavored markdown format. To learn markdown format visit this link. Once you have finished writing your resume in markdown save the file as “index.md”
  3.	Visit github.com and create a new account
  4.	Check the inbox of the email account you used to create your github account. You should see a new message asking you to verify your account. Click on the link given in the email. Once the link loads you will see a webpage with a blue banner at the top notifying you that “Your email was verified”. If the page gives you the option to create your first repository skip step 5 and go straight to step 6. Else go to step 5.
