@@ -40,7 +40,7 @@ If you are able to do basic tasks on a modern computer such as web browsing, and
 15. Using the upload window that appears, navigate to the path/location where you saved your markdown formatted resume (index.md file) in step 7 and select it.
 16.	Once your index.md file has finished uploading scroll down to the bottom of the webpage.
 17. Enter a description if desired, and click on the `commit changes` button.
-18. Now you should see a page that allows you to configure your repository. Below the two hyperlinks “[your-account-name]() / [reponame.github.io]()” there will be multiple tabs labeled `Code`, `Issues`, `Pull requests`, etc. Leave this page open in a separate browser tab or save it's URL as you will be referring to it many times.
+18. Now you should see a page that allows you to configure your repository. Below the two hyperlinks “your-account-name /  reponame.github.io” there will be multiple tabs labeled `Code`, `Issues`, `Pull requests`, etc. Leave this page open in a separate browser tab or save it's URL as you will be referring to it many times.
 19. Click on the “Settings” tab and scroll down until you see the heading “**GitHub Pages**”.
 20. Click on the dropdown menu below the subheading “**Source**” and select “master branch”. The page will reload.
 21. Scroll down again until you see the heading “**GitHub Pages**” once more. The URL to your repository (personal website) is given inside a blue banner under the “**GitHub Pages**” heading that says “Your site is ready to be published at "reponame.github.io”".
